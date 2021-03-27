@@ -93,7 +93,7 @@ sections:
   - section_id: call-to-action
     type: section_cta
     title: Get the app free for 34 days!
-    subtitle: This is an optional description for the call to action block.
+    subtitle: Setup takes 10 minutes. Try it out. No obligation. No contract.
     actions:
       - label: Sign Up - Free Trial 34 Days
         url: /signup
