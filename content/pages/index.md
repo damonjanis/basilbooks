@@ -95,7 +95,7 @@ sections:
     title: This Is Call To Action Block!
     subtitle: This is an optional description for the call to action block.
     actions:
-      - label: Get Started
+      - label: Sign Up - Free Trial 34 Days
         url: /signup
         style: primary
 seo:
