@@ -92,7 +92,7 @@ sections:
           Interdum et malesuada fames ac ante ipsum primis in faucibus.
   - section_id: call-to-action
     type: section_cta
-    title: This Is Call To Action Block!
+    title: Get the app free for 34 days!
     subtitle: This is an optional description for the call to action block.
     actions:
       - label: Sign Up - Free Trial 34 Days
